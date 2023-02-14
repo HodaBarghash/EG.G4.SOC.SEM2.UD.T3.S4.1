@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6PNUkUGibrG" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_66rLJCoRcEe" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="EG.G4.SOC.SEM2.UD.T3.S4.1_ORG">
     <organization identifier="EG.G4.SOC.SEM2.UD.T3.S4.1_ORG">
       <title>EG.G4.SOC.SEM2.UD.T3.S4.1</title>
-      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__6PNUkUGibrG_RES">
+      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__66rLJCoRcEe_RES">
         <title>EG.G4.SOC.SEM2.UD.T3.S4.1</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6PNUkUGibrG_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__66rLJCoRcEe_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6rlyJvzJoqu.png" />
       <file href="story_content/5bAEZkN7iRe_44100_160_0.mp3" />
@@ -72,10 +72,11 @@
       <file href="mobile/6NHP1byJ2nn.png" />
       <file href="mobile/6EnBAxvT50Z_P_0_0_1024_566.png" />
       <file href="mobile/6RUHU4NGI1s.png" />
+      <file href="mobile/69n11e0DmbV.jpg" />
+      <file href="mobile/6a2guQlCWq1.gif" />
       <file href="story_content/6qRxpsWGTDI_44100_160_0.mp3" />
       <file href="mobile/5acePXrvBuf.gif" />
       <file href="story_content/5tAdBpaPZcW_44100_160_0.mp3" />
-      <file href="mobile/6a2guQlCWq1.gif" />
       <file href="meta.xml" />
       <file href="story_content/6q4ZfKnacqT.png" />
       <file href="story_content/user.js" />
